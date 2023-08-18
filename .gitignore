@@ -52,6 +52,12 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
+*/Build/*
+*/DerivedDataCache/*
+*/Intermediate/*
+*/Saved/*
+*/Windows/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
